@@ -1,0 +1,13 @@
+D:\VisualStudio Projects\MetroMap\MetroMap\bin\Release\MetroMap.exe.config
+D:\VisualStudio Projects\MetroMap\MetroMap\bin\Release\MetroMap.exe
+D:\VisualStudio Projects\MetroMap\MetroMap\bin\Release\MetroMap.pdb
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\MainWindow.g.cs
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\App.g.cs
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\MetroMap_MarkupCompile.cache
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\MetroMap_MarkupCompile.lref
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\MainWindow.baml
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\MetroMap.g.resources
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\MetroMap.Properties.Resources.resources
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\MetroMap.csproj.GenerateResource.Cache
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\MetroMap.exe
+D:\VisualStudio Projects\MetroMap\MetroMap\obj\Release\MetroMap.pdb
